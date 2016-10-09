@@ -1,0 +1,132 @@
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\csc.exe
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\System.Collections.Immutable.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\System.Reflection.Metadata.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\vbc.exe
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\VBCSCompiler.exe
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\VBCSCompiler.exe.config
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\WCFSimpleClient.dll.config
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\WCFSimpleClient.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\WCFSimpleClient.pdb
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Antlr3.Runtime.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\AspNet.ScriptManager.bootstrap.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\AspNet.ScriptManager.jQuery.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\EntityFramework.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\EntityFramework.SqlServer.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.FriendlyUrls.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.Core.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.Owin.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Cookies.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Facebook.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Google.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.OAuth.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Twitter.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.ScriptManager.MSAjax.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.ScriptManager.WebForms.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Web.Infrastructure.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Newtonsoft.Json.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Owin.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\System.Web.Optimization.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\System.Web.Providers.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\WebGrease.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\System.Web.Optimization.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Antlr3.Runtime.pdb
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Newtonsoft.Json.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.FriendlyUrls.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\EntityFramework.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\EntityFramework.SqlServer.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.Core.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.Owin.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\System.Web.Providers.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Facebook.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Cookies.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Google.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Twitter.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.OAuth.xml
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\obj\Debug\WCFSimpleClient.csprojResolveAssemblyReference.cache
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\obj\Debug\WCFSimpleClient.dll
+W:\test\wcf\WCFSeminarDemo\WCFSimpleClient\obj\Debug\WCFSimpleClient.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\WCFSimpleClient.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\WCFSimpleClient.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\WCFSimpleClient.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\AspNet.ScriptManager.bootstrap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\AspNet.ScriptManager.jQuery.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.ScriptManager.MSAjax.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.ScriptManager.WebForms.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\System.Web.Providers.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\System.Web.Providers.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\obj\Debug\WCFSimpleClient.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\obj\Debug\WCFSimpleClient.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WCFSeminarDemo\WCFSimpleClient\obj\Debug\WCFSimpleClient.pdb

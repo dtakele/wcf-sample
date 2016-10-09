@@ -1,0 +1,9 @@
+WCFSelfHostClient/obj
+.vs
+WCFSelfHostServer/bin
+WCFSelfHostServer/obj
+WCFSelfHostServices/bin
+WCFSelfHostServices/obj
+WCFSimpleServer/bin
+WCFSimpleServer/obj
+packages
